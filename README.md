@@ -3,7 +3,8 @@ pip install -r requirements.txt<br>
 python manage.py runserver>br>
 
 http://127.0.0.1:8000/<br>
-
+http://127.0.0.1:8000/admin<br>
+http://127.0.0.1:8000/admin/socialaccount/socialaccount/2/change/<br>
 Пароль от админки:<br>
 admin<br>
 123456<br>
